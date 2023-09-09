@@ -1,5 +1,8 @@
 # Zuri_Task-One
 HNG internship task
+
+deploy link--https://nitesh1357.github.io/Zuri_Task-One/
+
 task 1 of frontend Internship
 Welcome to the completion readme for Internship Task 1 of HNG/Zuri internship. In this task, you have been
 introduced to fundamental web development technologies such as HTML, CSS, and JavaScript.
